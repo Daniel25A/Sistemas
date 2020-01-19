@@ -1,0 +1,18 @@
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\bin\Debug\Sistema Marcelo.exe.config
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\bin\Debug\Sistema Marcelo.exe
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\bin\Debug\Sistema Marcelo.pdb
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema Marcelo.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Properties.Resources.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema Marcelo.csproj.GenerateResource.Cache
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema Marcelo.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema Marcelo.exe
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema Marcelo.pdb
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmpagar.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmComprobantes.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmproductos.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmcortecaja.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmReporteVentas.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmmenureporte.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmtouch.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.Formularios.frmlogin.resources
+C:\Users\Oscar\source\repos\Sistema Marcelo\Sistema Marcelo\obj\Debug\Sistema_Marcelo.frmInicio.resources

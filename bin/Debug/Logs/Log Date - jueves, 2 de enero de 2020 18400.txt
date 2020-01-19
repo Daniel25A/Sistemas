@@ -1,0 +1,1 @@
+[02/01/2020][18:40] Se Migro la tabla VentasCounter

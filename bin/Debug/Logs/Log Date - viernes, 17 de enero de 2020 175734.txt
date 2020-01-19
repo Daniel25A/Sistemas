@@ -1,0 +1,1 @@
+[17/01/2020][17:57] Se Migro la tabla Ventas_Detalle

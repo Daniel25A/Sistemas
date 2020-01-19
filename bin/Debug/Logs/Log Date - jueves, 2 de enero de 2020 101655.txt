@@ -1,0 +1,1 @@
+[02/01/2020][10:16] Se Migro la tabla ProductosInv
